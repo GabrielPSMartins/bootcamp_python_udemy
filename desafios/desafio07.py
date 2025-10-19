@@ -1,8 +1,9 @@
 '''
-Use a lista de frutas do desafio anterior e imprima o primeiro e o último elemento dessa lista.
+Para este desafio, gostaria que você criasse uma lista chamada 'frutas'
+que contenha os seguintes itens: "maça", "banana", "manga" e "uva".
+Depois disso, quero que você imprima esta lista na tela.
 '''
 
 frutas = ["maça", "banana", "manga", "uva"]
 
-print(frutas[0])
-print(frutas[-1])
+print(frutas)

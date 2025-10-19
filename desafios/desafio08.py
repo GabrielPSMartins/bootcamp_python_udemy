@@ -1,13 +1,8 @@
 '''
-Use novamente a lista 'frutas' do desafio anterior.
-
-Primeiro, altere o segundo elemento da lista (índice 1) de "banana" para "morango". Depois disso, adicione a fruta "abacaxi" ao final da lista. 
-Por fim, imprima a lista modificada na tela.
+Use a lista de frutas do desafio anterior e imprima o primeiro e o último elemento dessa lista.
 '''
 
 frutas = ["maça", "banana", "manga", "uva"]
 
-frutas[1] = "morango"
-frutas.append("abacaxi")
-
-print(frutas)
+print(frutas[0])
+print(frutas[-1])
