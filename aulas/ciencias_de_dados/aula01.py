@@ -1,3 +1,5 @@
+# abrindo um arquivo CSV com Pandas
+
 import pandas as pd
 
 dados = pd.read_csv('Fifa/fifa.csv')
