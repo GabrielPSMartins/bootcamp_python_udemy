@@ -14,4 +14,4 @@ plt.plot(gas["Year"], gas["Mexico"], label="México")
 plt.xticks(gas["Year"][::4])
 
 plt.legend()
-plt.savefig("Graficos/grafico2_gas.png")
+plt.savefig("grafico_gas.png")
